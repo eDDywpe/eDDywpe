@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eddy</h1>
-<h3 align="center">
-💻 Full-Stack Developer since 2016
-🚀 Passionate about building modern applications  
-🧠 Always learning and improving
-</h3>
+<h3 align="center">💻 Full-Stack Developer since 2016</h3>
+<h3 align="center">🚀 Passionate about building modern applications  </h3>
+<h3 align="center">🧠 Always learning and improving</h3>
 
 ---
 
